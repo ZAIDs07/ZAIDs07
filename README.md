@@ -100,4 +100,3 @@ I am excited to be part of the web development community, and I can't wait to se
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
