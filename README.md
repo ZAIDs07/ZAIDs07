@@ -1,4 +1,4 @@
-## Hey 👋, I'm Rishav Anand!  
+## Hey 👋, I'm Zaid Ali!  
   
 
 <a href="https://github.com/epidermisdeveloper" target="_blank">
